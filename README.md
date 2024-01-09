@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![github_typing_intro_gif_Thinner](https://github.com/psimps21/psimps21/assets/49768567/c5214778-a0d8-42f7-924b-0b93582d4a49)
-
+![github_typing_intro_gif_v3_Thin](https://github.com/psimps21/psimps21/assets/49768567/92375801-c022-4639-bd13-629ea7fd0806)
 
 <!--
 Thicker GIF
