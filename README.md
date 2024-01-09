@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![github_typing_intro_gif_v3_Thin](https://github.com/psimps21/psimps21/assets/49768567/92375801-c022-4639-bd13-629ea7fd0806)
 
