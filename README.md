@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+![github_typing_intro_gif_Thinner](https://github.com/psimps21/psimps21/assets/49768567/c5214778-a0d8-42f7-924b-0b93582d4a49)
+
+
+<!--
+Thicker GIF
 ![github_typing_intro_gif](https://github.com/psimps21/psimps21/assets/49768567/3af8818c-6c42-4a87-b22a-cc0b03ea6706)
+-->
 
 <!--
 **psimps21/psimps21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
