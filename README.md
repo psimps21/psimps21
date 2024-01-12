@@ -1,5 +1,5 @@
 
-![github_typing_intro_gif_v3_Thin](https://github.com/psimps21/psimps21/assets/49768567/92375801-c022-4639-bd13-629ea7fd0806)
+![github_typing_intro_gif_v4](https://github.com/psimps21/psimps21/assets/49768567/4c2d867b-70a4-4c06-b613-f8558c152ab8)
 
 <!--
 Thicker GIF
